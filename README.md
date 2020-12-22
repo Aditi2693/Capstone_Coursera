@@ -11,6 +11,7 @@ This submission will eventually become your Data section in your final report. S
 **Actions on the data collected**
 Now, similar to google maps we will be able to narrow down restaurants by comparing their rating to be precise as the reviews given by people who have visited the place determine how good a food place is.
 Data will be collected from Italy.This project would use Foursquare API as its prime data gathering source as it has a database of millions of places, especially their places API which provides the ability to perform location search, location sharing and details about a business.
+
 **For this project we will consider the following certeria's:**
 1. Name and area of the joint
 2. Type of food served
